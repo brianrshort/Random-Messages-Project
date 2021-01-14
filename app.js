@@ -14,3 +14,9 @@ function tellFortune() {
     return arr[randNum];
 }
 
+//A function to select a random outro
+function outro() {
+    const arr = ["Prepare yourself.","Begone from my sight!","Ready, Freddie?"];
+    const randNum = Math.floor(Math.random() * arr.length);
+    return arr[randNum];
+}
