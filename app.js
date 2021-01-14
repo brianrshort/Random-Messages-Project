@@ -20,3 +20,8 @@ function outro() {
     const randNum = Math.floor(Math.random() * arr.length);
     return arr[randNum];
 }
+
+//A function to join the three randomly selected phrases together
+function join(phraseOne, phraseTwo, phraseThree) {
+    return `${phraseOne} ${phraseTwo} ${phraseThree}`;
+}
