@@ -25,3 +25,10 @@ function outro() {
 function join(phraseOne, phraseTwo, phraseThree) {
     return `${phraseOne} ${phraseTwo} ${phraseThree}`;
 }
+
+//Sample function calls to test the function
+//console.log(greeting());
+// console.log(tellFortune());
+// console.log(outro());
+//console.log(join(greeting(), tellFortune(), outro()));
+
