@@ -8,7 +8,7 @@ This project uses a JavaScript to generate a random message selected from three 
 
 This project was completed as part of the Codecademy Back-End Developer certification program. The goal was to practice intermediate JavaScript functions. 
 
-# Installation and Tests
+## Installation and Tests
 
 To install, use, and test the functions:
 
